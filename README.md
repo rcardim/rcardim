@@ -59,3 +59,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a><a href="https://quarto.org/"target="_blank" rel="noreferrer">
 <img src="https://quarto.org/quarto.png" alt="quarto" width="75" height="35"/> </a>
 </p>
+
+
+
+![Rebeca's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcardim&show_icons=true&theme=transparent)
