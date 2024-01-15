@@ -1,5 +1,4 @@
-### Hello👋
-
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=Hello%20👋&fontSize=40)
 <!--
 **rcardim/rcardim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -61,6 +60,9 @@ Here are some ideas to get you started:
 </p>
 
 
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=12186213228">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=12186213228" alt="Data Card for Spotify">
+</a>
 
 ![Rebeca's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcardim&hide=stars&count_private=true&show_icons=true)
 
