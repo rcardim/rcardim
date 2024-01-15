@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-	 👩‍💻 I'm a Postdoctoral fellow at the British Columbia Centre for Disease Control.
+👩‍💻 I'm a Postdoctoral fellow at the British Columbia Centre for Disease Control.
 
 - 🖥️ I'm currently leading two projects:
     1. 🦠 Investigate *Salmonella* spread within BC's poultry industry and assess the impact of a new veterinary antimicrobial application on reducing disease burden in chickens and humans.
