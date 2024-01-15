@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=Hello%20👋&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=150&section=header&text=Hello%20👋&fontSize=40&fontAlignY=25)
 <!--
 **rcardim/rcardim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -59,10 +59,15 @@ Here are some ideas to get you started:
 <img src="https://quarto.org/quarto.png" alt="quarto" width="75" height="35"/> </a>
 </p>
 
+![header](https://capsule-render.vercel.app/api?type=egg&color=timeGradient&height=140&section=header&text=Fun😃&fontSize=40&fontAlignY=25&animation=blink)
 
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=12186213228">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=12186213228" alt="Data Card for Spotify">
 </a>
 
+
+
 ![Rebeca's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcardim&hide=stars&count_private=true&show_icons=true)
+
+![footer](https://capsule-render.vercel.app/api?type=shark&color=timeGradient&height=100&section=footer)
 
