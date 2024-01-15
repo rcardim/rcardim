@@ -62,4 +62,5 @@ Here are some ideas to get you started:
 
 
 
-![Rebeca's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcardim&show_icons=true&theme=transparent)
+![Rebeca's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcardim&hide=stars&count_private=true&show_icons=true)
+
