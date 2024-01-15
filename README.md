@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     1. 🦠 Investigate *Salmonella* spread within BC's poultry industry and assess the impact of a new veterinary antimicrobial application on reducing disease burden in chickens and humans.
     2. 🏭 Develop and evaluate wastewater surveillance of viral pathogens in BC.
 - 😄 Pronouns: She/Her/Hers
-- 📫 How to reach me: rcardimfalcao@gmail.com
+- 📫 How to reach me: rebecardim@gmail.com
   
 <h3 align="left">Social Network</h3>
 <p align="left">
