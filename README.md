@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🖥️ I'm currently leading two projects:
     1. 🦠 Investigate *Salmonella* spread within BC's poultry industry and assess the impact of a new veterinary antimicrobial application on reducing disease burden in chickens and humans.
-    2. 🏭 Develop and evaluate wastewater surveillance of viral pathogens in BC.
+    2. 🏭 Integrate wastewater data of viral pathogens in BC in a pipeline to predict disease outcomes.
 - 😄 Pronouns: She/Her/Hers
 - 📫 How to reach me: rebecardim@gmail.com
   
