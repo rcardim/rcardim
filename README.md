@@ -13,18 +13,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👩‍💻 I'm a Health System Impact fellow at the British Columbia Centre for Disease Control.
+ <h3 align="left">About me: </h3> 
+ 
+👩‍💻 Hello, my name is Rebeca and I'm a Data Scientist based in Vancouver, BC, Canada. I'm affiliated with BC Centre for Disease Control as a Health System Impact fellow. Projects I get excited about most involve Bayesian inference and ML models to learn new knowledge from complex data. In my free time, when I'm not learning a new tool, or coding a new project, I'm walking with my dog 🐶 or studying piano 🎹.
 
-<u> Continuously Learning </u>:
-    1. I'm currently working on a project to understand the effects of climate on the spread of arboviruses in tropical regions. In this work, we are applying Bayesian inference using numpyro.
-    2. I'm also developing a dashboard to track stock and index trends, and estimate metrics such as average volume, volatility, P/E ratio, etc.
-
-- 🖥️ I'm currently leading two projects:
+- 🖥️ I'm currently leading three projects:
     1. 🦠 Investigate *Salmonella* spread within BC's poultry industry and assess the impact of a new veterinary antimicrobial application on reducing disease burden in chickens and humans.
     2. 🏭 Integrate wastewater data of viral pathogens in BC in a pipeline to predict disease outcomes.
     3. 🐓 Generate a geospatial risk map of avian flu spillover.
 - 😄 Pronouns: She/Her/Hers
 - 📫 How to reach me: rebecardim@gmail.com
+
+ <h3 align="left">Continuously Learning: </h3>
+ 
+- I'm currently working on a project to understand the effects of climate on the spread of arboviruses in tropical regions. In this work, we are applying Bayesian inference using numpyro.
+
+- I'm also developing a dashboard to track stock and index trends, and estimate metrics such as average volume, volatility, P/E ratio, etc.
   
 <h3 align="left">Social Network</h3>
 <p align="left">
