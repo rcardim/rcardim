@@ -13,11 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👩‍💻 I'm a Postdoctoral fellow at the British Columbia Centre for Disease Control.
+👩‍💻 I'm a Health System Impact fellow at the British Columbia Centre for Disease Control.
+
+<u> Continuously Learning </u>:
+    1. I'm currently working on a project to understand the effects of climate on the spread of arboviruses in tropical regions. In this work, we are applying Bayesian inference using numpyro.
+    2. I'm also developing a dashboard to track stock and index trends, and estimate metrics such as average volume, volatility, P/E ratio, etc.
 
 - 🖥️ I'm currently leading two projects:
     1. 🦠 Investigate *Salmonella* spread within BC's poultry industry and assess the impact of a new veterinary antimicrobial application on reducing disease burden in chickens and humans.
     2. 🏭 Integrate wastewater data of viral pathogens in BC in a pipeline to predict disease outcomes.
+    3. 🐓 Generate a geospatial risk map of avian flu spillover.
 - 😄 Pronouns: She/Her/Hers
 - 📫 How to reach me: rebecardim@gmail.com
   
