@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her/Hers
 - 📫 How to reach me: rebecardim@gmail.com
 
- <h3 align="left">Continuously Learning: </h3>
+ <h3 align="left">Continuous Learning: </h3>
  
 - I'm currently working on a project to understand the effects of climate on the spread of arboviruses in tropical regions. In this work, we are applying Bayesian inference using numpyro.
 
