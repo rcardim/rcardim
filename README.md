@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 
  <h3 align="left">About me: </h3> 
  
 👩‍💻 Hello, my name is Rebeca and I'm a Data Scientist based in Vancouver, BC, Canada. I'm affiliated with BC Centre for Disease Control as a Health System Impact fellow. Projects I get excited about most involve Bayesian inference and ML models to learn new knowledge from complex data. In my free time, when I'm not learning a new tool, or coding a new project, I'm walking with my dog 🐶 or studying piano 🎹.
@@ -114,8 +113,6 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
-
-![Rebeca's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcardim&hide=stars&count_private=true&show_icons=true)
 
 ![footer](https://capsule-render.vercel.app/api?type=shark&color=timeGradient&height=100&section=footer)
 
