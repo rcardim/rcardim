@@ -12,9 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://komarev.com/ghpvc/?username=rcardim&color=ff69b4)
+
  <h3 align="left">About me: </h3> 
  
-👩‍💻 Hello, my name is Rebeca and I'm a Data Scientist based in Vancouver, BC, Canada. I'm affiliated with BC Centre for Disease Control as a Health System Impact fellow. Projects I get excited about most involve Bayesian inference and ML models to learn new knowledge from complex data. In my free time, when I'm not learning a new tool, or coding a new project, I'm walking with my dog 🐶 or studying piano 🎹.
+👩‍💻 Hello, my name is Rebeca, and I'm a Data Scientist based in Vancouver, BC, Canada. I'm affiliated with the BC Centre for Disease Control as a Health System Impact fellow. Projects I get excited about most involve Bayesian inference and ML models to learn new knowledge from complex data. In my free time, when I'm not learning a new tool or coding a new project, I'm walking with my dog 🐶 or studying piano 🎹.
 
 - 🖥️ I'm currently leading three projects:
     1. 🦠 Investigate *Salmonella* spread within BC's poultry industry and assess the impact of a new veterinary antimicrobial application on reducing disease burden in chickens and humans.
@@ -108,11 +111,13 @@ Here are some ideas to get you started:
     </td>
     <td>
       <a href="https://quarto.org/" target="_blank" rel="noreferrer">
-        <img src="https://quarto.org/quarto.png" alt="Quarto" width="80" height="35"/> 
+        <img src="https://quarto.org/quarto.png" alt="Quarto" width="80" height="30"/> 
       </a>
     </td>
   </tr>
 </table>
+
+![Rebs's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcardim&show_icons=true&theme=buefy)
 
 ![footer](https://capsule-render.vercel.app/api?type=shark&color=timeGradient&height=100&section=footer)
 
