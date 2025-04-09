@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
  <h3 align="left">Continuous Learning: </h3>
  
-- I'm currently working on a project to understand the effects of climate on the spread of arboviruses in tropical regions. In this work, we are applying Bayesian inference using numpyro.
+- I'm currently working on a project to understand the effects of climate on the spread of arboviruses in tropical regions. In this work, we are applying Bayesian inference using PyMC.
 
 - I'm also developing a dashboard to track stock and index trends, and estimate metrics such as average volume, volatility, P/E ratio, etc.
   
