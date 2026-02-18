@@ -37,6 +37,16 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/rebeca-cardim-falcão-a149539a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rebeca-cardim-falcão" height="30" width="40" /></a>
 <a href="https://scholar.google.com/citations?user=N-s1ySkAAAAJ&hl=" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="rebeca-cardim-falcão" height="30" width="40" /></a>
 
+<h3 align="left"> 📦 R & Python Packages</h3>
+<p align="left">
+  <a href="https://github.com/BCCDC-PHSA/ViroReportR">
+    <img src="https://github.com/BCCDC-PHSA/ViroReportR/blob/main/package_logo/hex_logo.png"
+         alt="ViroReportR"
+         width="80"
+         height="80"/>
+  </a>
+</p>
+
 <h2 align="left">Tech Stack:</h2>
 
 <h3 align="left">Programming Languages:</h3>
